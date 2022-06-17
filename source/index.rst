@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-De-anonymisation Threat model
+De-anonymisation threat model
 =========================================================
 
 Using attacker-based threat modelling with a quite non-trivial adversary, namely an entire ecosystem of players and an

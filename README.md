@@ -1,4 +1,4 @@
-# De-Anonymization threat model
+# De-anonymisation threat model
 
 ![Publish DA Threat model using Sphinx](https://github.com/tymyrddin/da-threat-model/workflows/Publish%20DA%20Threat%20model%20using%20Sphinx/badge.svg?branch=main)
  Deployed: https://tymyrddin.github.io/da-threat-model/

@@ -65,7 +65,7 @@ html_theme_options = {
     'titles_only': True
 }
 
-html_title = "De-anonymisation Threat model"
+html_title = "De-anonymisation threat model"
 html_logo = "img/logo.png"
 html_favicon = "img/favicon.ico"
 
