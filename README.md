@@ -15,7 +15,7 @@ by [Read the Docs](https://readthedocs.org/).
 
 ## Usage
 
-Add or change documents in the source folder.
+Add or change documents in the source folder of the main branch.
 
 Make the build:
 ```bash
