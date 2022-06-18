@@ -2,7 +2,7 @@
 
 Predictive analytics is the practice of extracting information from existing current and historical data sets in order to determine patterns and predict future outcomes and trends by statistical techniques from modelling, machine learning, and data mining. Predictive analytics does not tell you what will happen in the future.
 
-# Method
+## Method
 
 * Understanding the problem
 * Tying prediction variables to the problem
