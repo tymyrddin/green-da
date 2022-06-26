@@ -1,4 +1,4 @@
-.. De-anonymisation Threat model documentation master file, created by
+.. De-anonymisation threat model documentation master file, created by
    sphinx-quickstart on Fri Jun 17 22:44:18 2022.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.

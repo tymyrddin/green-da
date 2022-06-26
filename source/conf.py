@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'De-anonymisation Threat model'
+project = 'De-anonymisation threat model'
 copyright = '2022, Ty Myrddin'
 author = 'Ty Myrddin'
 
