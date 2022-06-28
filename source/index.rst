@@ -76,3 +76,8 @@ potential drawbacks of anonymisation techniques.
    :caption: Impacts
 
    docs/impacts/*
+
+.. toctree::
+   :caption: All threat models
+
+   Overview <https://tymyrddin.github.io/threat-models/>
