@@ -1,7 +1,7 @@
 # De-anonymisation threat model
 
-![Publish DA Threat model using Sphinx](https://github.com/tymyrddin/da-threat-model/workflows/Publish%20DA%20Threat%20model%20using%20Sphinx/badge.svg?branch=main)
- Deployed: https://tymyrddin.github.io/da-threat-model/
+![Publish DA Threat model using Sphinx](https://github.com/tymyrddin/green-da/workflows/Publish%20DA%20Threat%20model%20using%20Sphinx/badge.svg?branch=main)
+ Deployed: https://tymyrddin.github.io/green-da/
 
 Built with [Sphinx](https://www.sphinx-doc.org) using a [theme](https://github.com/readthedocs/sphinx_rtd_theme) provided
 by [Read the Docs](https://readthedocs.org/).
@@ -26,7 +26,8 @@ $ make html
 
 This project welcomes contributions and suggestions. 
 
-[Open an issue here](https://github.com/tymyrddin/da-threat-model/issues)
+[Open an issue here](https://github.com/tymyrddin/green-da/issues)
 
 ## Mind
-Where you stand depends on where you sit, and all threats are cross-vector threats. Without a clear mandate for testing, measuring and reporting actual improvements in security, attempts at improving security makes absolutely no sense, not even for the low-hanging fruit.  
+
+It was possibly the most circumspect advance in the history of military manoeuvres, right down at the bottom end of the scale that things like the Charge of the Light Brigade are at the top of.
