@@ -75,6 +75,5 @@ potential drawbacks of anonymisation techniques.
 .. toctree::
    :caption: Links
 
-   Overview threat models <https://tymyrddin.github.io/threat-models/>
-   Attack trees <https://tymyrddin.github.io/attack-trees/>
-   Data science <https://milli-ways.netlify.app/>
+   Green Team <https://tymyrddin.github.io/green/>
+   Data science <https://milliways.wyrd.dev/>
