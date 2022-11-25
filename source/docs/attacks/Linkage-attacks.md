@@ -4,7 +4,7 @@ Linkage attacks are another common form of de-anonymisation attacks. In this att
 
 ## Methods
 
-For example, the adversary downloads a sanitised production network dataset that was released in the past. The dataset contains captured traces in which all MAC addresses have been sanitised and are thus unknown to the adversary. The adversary observes a sequence of AP association records of a target victim for a short period of time, to infer the MAC address from the released dataset that is associated with the victim. The attacker then obtains broader knowledge of the victim’s mobility history from the released dataset, which leads to an infringement on the privacy of the user.
+For example, the adversary downloads a sanitised production network dataset that was released in the past. The dataset contains captured traces in which all MAC addresses have been sanitised and are thus unknown to the adversary. The adversary observes a sequence of AP association records of a target victim for a short period of time, to infer the MAC address from the released dataset that is associated with the victim. The attacker obtains broader knowledge of the victim’s mobility history from the released dataset, which leads to an infringement on the privacy of the user.
 
 The possibilities are endless
 
@@ -23,5 +23,5 @@ The most common approach to mitigate linkage or correlation attacks is to anonym
 
 It was proposed, that if data is shared — to create layers of abstraction or generalisation by redacting parts of the data. If only microdata that contain spatial information in an aggregated form are released, the choice of applicable techniques for analysis becomes drastically reduced because distance calculations that are based on aggregated data become difficult and imprecise, especially for entities that are spatially close to each other. This then leads to the conclusion that to continue to do research on large datasets with privacy protection for the owners of the data, it is necessary to investigate the extent to which additionally published (approximate) inter-record distances influence the risk of identity disclosure and how a possible non-acceptable increase of this risk can be prevented.
 
-That will not suffice either. [Advanced anonymisation techniques of target datasets](../assets/Target-dataset.md) are needed.
+Many organizations are not aware of the linkage risk involving quasi identifiers, and while they may de-identify direct identifiers in a dataset, they often do not think of de-identifying the quasi-identifiers in the dataset. [Advanced anonymisation techniques of target datasets](../assets/Target-dataset.md) are needed. 
 

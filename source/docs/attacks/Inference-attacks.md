@@ -1,6 +1,6 @@
 # Inference attacks
 
-Inference attacks are the majority of attacks. The simplest inference attacks are derived from early codebreaking, where codes were created by swapping around individual letters, or by substituting glyphs for the alphabetic characters. Once the relative frequency of the various letters in a character substitution language is found, messages using the code can be easily cracked.
+Inference attacks are the majority of attacks. The simplest inference attacks are derived from early code breaking, where codes were created by swapping around individual letters, or by substituting glyphs for the alphabetic characters. Once the relative frequency of the various letters in a character substitution language is found, messages using the code can be easily cracked.
 
 In a similar fashion, a pseudonymised database may have the City field disguised. Cities have varying populations, and if the population in the database conforms to a known population, those cities can be identified, and this tentative identification can be firmed up by looking at the distribution of addresses within the city, or by other auxiliary information (also called background information) on individual cities. A seemingly somewhat harmless example. But not when combined with other information.
 
@@ -14,5 +14,8 @@ Every inference attack is slightly different because it depends on the data and 
 
 ## Mitigation
 
-Naïve suppression such as pseudonymising datasets does not prevent privacy breaches. The more useful a record is for scientific or marketing research, the more vulnerable it is to inference attack.
+Naive suppression such as pseudonymising datasets does not prevent privacy breaches. The more useful a record is for scientific or marketing research, the more vulnerable it is to inference attack.
 
+## Resources
+
+* [Daily Swigger: Inference attacks: How much information can machine learning models leak?](https://portswigger.net/daily-swig/inference-attacks-how-much-information-can-machine-learning-models-leak)
