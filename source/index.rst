@@ -75,5 +75,5 @@ potential drawbacks of anonymisation techniques.
 .. toctree::
    :caption: Links
 
-   Green Team <https://tymyrddin.github.io/green/>
-   Data science <https://milliways.wyrd.dev/>
+   Green Team <https://green.tymyrddin.dev/>
+   Data science <https://milliways.tymyrddin.dev/>
