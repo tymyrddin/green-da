@@ -3,6 +3,8 @@
 Built with [Sphinx](https://www.sphinx-doc.org) using a [theme](https://github.com/readthedocs/sphinx_rtd_theme) provided
 by [Read the Docs](https://readthedocs.org/).
 
+[![Documentation Status](https://readthedocs.org/projects/green-da/badge/?version=latest)](https://green.tymyrddin.dev/projects/da/en/latest/?badge=latest)
+
 ## Requirements
 
 * sphinx — sphinx package
