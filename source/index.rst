@@ -8,6 +8,8 @@ re-identify the anonymous data source, often used by those that do not have user
 De-anonymisation also works to further help improve anonymisation techniques and reduce privacy breach by probing the
 potential drawbacks of anonymisation techniques.
 
+----
+
 .. toctree::
    :glob:
    :maxdepth: 1
@@ -71,9 +73,3 @@ potential drawbacks of anonymisation techniques.
    :caption: Impacts
 
    docs/impacts/*
-
-.. toctree::
-   :caption: Links
-
-   Green Team <https://green.tymyrddin.dev/>
-   Data science <https://milliways.tymyrddin.dev/>
